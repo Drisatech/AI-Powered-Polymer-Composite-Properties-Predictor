@@ -62,23 +62,19 @@ st.markdown("""
 
 def add_logo():
     """Add company logo to the top-left corner"""
-    # Method 1: Using st.image() in a column layout
     col1, col2, col3 = st.columns([1, 6, 1])
     
     with col1:
-        # Replace 'your_logo.png' with the path to your logo file
-        # You can use either a local file path or a URL
         try:
             st.image("Drisa_Logo.png", width=150)
         except:
-            # Fallback if logo file is not found
             st.markdown("**Your Company Logo**")
     
     with col2:
-        st.empty()  # Empty space for better layout
+        st.empty()
     
     with col3:
-        st.empty()  # Empty space for better layout
+        st.empty()
 
 class PolymerCompositeApp:
     def __init__(self):
