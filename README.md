@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Drisatech)
+- **Engr Idris Aliyu** - *Data Engineer and AI/Cloud Developer* - [MyGitHub](https://github.com/Drisatech)
 
 ## 🙏 Acknowledgments
 
@@ -290,8 +290,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaborations:
 - **Email**: info@drisatech.com.ng
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/aliyu-idris)
-- **ResearchGate**: [Your Profile](https://researchgate.net/profile/aliyu-idris)
+- **LinkedIn**: [My Profile](https://linkedin.com/in/aliyu-idris)
+- **ResearchGate**: [My Profile](https://researchgate.net/profile/aliyu-idris)
 
 ---
 
