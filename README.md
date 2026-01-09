@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Drisatech)
 
 ## 🙏 Acknowledgments
 
@@ -289,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions, suggestions, or collaborations:
-- **Email**: info@drisatech.com
+- **Email**: info@drisatech.com.ng
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/aliyu-idris)
 - **ResearchGate**: [Your Profile](https://researchgate.net/profile/aliyu-idris)
 
